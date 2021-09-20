@@ -1,0 +1,38 @@
+D:\_in_progress\empty_files_remover\Remove_unused_files\bin\Debug\Remove files.exe.config
+D:\_in_progress\empty_files_remover\Remove_unused_files\bin\Debug\Remove files.exe
+D:\_in_progress\empty_files_remover\Remove_unused_files\bin\Debug\Remove files.pdb
+D:\_in_progress\empty_files_remover\Remove_unused_files\obj\Debug\Remove_files.Properties.Resources.resources
+D:\_in_progress\empty_files_remover\Remove_unused_files\obj\Debug\Remove_files.csproj.GenerateResource.cache
+D:\_in_progress\empty_files_remover\Remove_unused_files\obj\Debug\Remove_files.csproj.CoreCompileInputs.cache
+D:\_in_progress\empty_files_remover\Remove_unused_files\obj\Debug\Remove files.exe
+D:\_in_progress\empty_files_remover\Remove_unused_files\obj\Debug\Remove files.pdb
+D:\_in_progress\empty_files_remover\Remove_unused_files\obj\Debug\Remove_unused_files.frmMain.resources
+D:\_in_progress\Remove_unused_files\bin\Debug\Remove files.exe.config
+D:\_in_progress\Remove_unused_files\bin\Debug\Remove files.exe
+D:\_in_progress\Remove_unused_files\bin\Debug\Remove files.pdb
+D:\_in_progress\Remove_unused_files\obj\Debug\Remove_files.Properties.Resources.resources
+D:\_in_progress\Remove_unused_files\obj\Debug\Remove_files.csproj.GenerateResource.cache
+D:\_in_progress\Remove_unused_files\obj\Debug\Remove_files.csproj.CoreCompileInputs.cache
+D:\_in_progress\Remove_unused_files\obj\Debug\Remove files.exe
+D:\_in_progress\Remove_unused_files\obj\Debug\Remove files.pdb
+D:\_in_progress\Remove_unused_files\obj\Debug\Remove_files.csprojAssemblyReference.cache
+D:\_in_progress\Remove_unused_files\obj\Debug\Remove_files.frmMain.resources
+D:\_in_progress\file_remover\bin\Debug\File remover.exe.config
+D:\_in_progress\file_remover\bin\Debug\File remover.exe
+D:\_in_progress\file_remover\bin\Debug\File remover.pdb
+D:\_in_progress\file_remover\obj\Debug\Remove_files.csprojAssemblyReference.cache
+D:\_in_progress\file_remover\obj\Debug\Remove_files.frmMain.resources
+D:\_in_progress\file_remover\obj\Debug\Remove_files.Properties.Resources.resources
+D:\_in_progress\file_remover\obj\Debug\Remove_files.csproj.GenerateResource.cache
+D:\_in_progress\file_remover\obj\Debug\Remove_files.csproj.CoreCompileInputs.cache
+D:\_in_progress\file_remover\obj\Debug\File remover.exe
+D:\_in_progress\file_remover\obj\Debug\File remover.pdb
+D:\GoogleDrive\INTACT\research_development\tools\_source\file_remover\bin\Debug\File remover.exe.config
+D:\GoogleDrive\INTACT\research_development\tools\_source\file_remover\bin\Debug\File remover.exe
+D:\GoogleDrive\INTACT\research_development\tools\_source\file_remover\bin\Debug\File remover.pdb
+D:\GoogleDrive\INTACT\research_development\tools\_source\file_remover\obj\Debug\Remove_files.csprojAssemblyReference.cache
+D:\GoogleDrive\INTACT\research_development\tools\_source\file_remover\obj\Debug\Remove_files.frmMain.resources
+D:\GoogleDrive\INTACT\research_development\tools\_source\file_remover\obj\Debug\Remove_files.Properties.Resources.resources
+D:\GoogleDrive\INTACT\research_development\tools\_source\file_remover\obj\Debug\Remove_files.csproj.GenerateResource.cache
+D:\GoogleDrive\INTACT\research_development\tools\_source\file_remover\obj\Debug\File remover.exe
+D:\GoogleDrive\INTACT\research_development\tools\_source\file_remover\obj\Debug\File remover.pdb

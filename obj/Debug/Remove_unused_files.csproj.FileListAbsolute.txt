@@ -1,0 +1,10 @@
+D:\_in_progress\empty_files_remover\Remove_unused_files\bin\Debug\Remove_unused_files.exe.config
+D:\_in_progress\empty_files_remover\Remove_unused_files\bin\Debug\Remove_unused_files.exe
+D:\_in_progress\empty_files_remover\Remove_unused_files\bin\Debug\Remove_unused_files.pdb
+D:\_in_progress\empty_files_remover\Remove_unused_files\obj\Debug\Remove_unused_files.csprojAssemblyReference.cache
+D:\_in_progress\empty_files_remover\Remove_unused_files\obj\Debug\Remove_unused_files.Form1.resources
+D:\_in_progress\empty_files_remover\Remove_unused_files\obj\Debug\Remove_unused_files.Properties.Resources.resources
+D:\_in_progress\empty_files_remover\Remove_unused_files\obj\Debug\Remove_unused_files.csproj.GenerateResource.cache
+D:\_in_progress\empty_files_remover\Remove_unused_files\obj\Debug\Remove_unused_files.csproj.CoreCompileInputs.cache
+D:\_in_progress\empty_files_remover\Remove_unused_files\obj\Debug\Remove_unused_files.exe
+D:\_in_progress\empty_files_remover\Remove_unused_files\obj\Debug\Remove_unused_files.pdb
